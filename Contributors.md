@@ -3397,3 +3397,5 @@ Yogakshi Jaiman
 - [Jethro Modequillo] (https://github.com/potato874)
 - [Robert Kegel] (https://github.com/robertKegel)
 - [samsara-ku] (https://github.com/samsara-ku)
+- [Dwi Pasca Nursanti] (https://github.com/Dwipasca)
+- [David Fraser](https://github.com/DavidMatthewFraser)
